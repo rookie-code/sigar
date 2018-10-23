@@ -1,0 +1,7 @@
+{
+    "max_um": "99.9", 
+    "min_um": "45.2", 
+    "min_temp": 0.0, 
+    "unit_temp": "F", 
+    "max_temp": "27.8"
+}
